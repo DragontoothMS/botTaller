@@ -1,0 +1,19 @@
+# Credenciales
+.env
+.env.local
+
+# Dependencias
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+
+# Editor
+.DS_Store
+*.log
+start-ngrok.js
+nul
